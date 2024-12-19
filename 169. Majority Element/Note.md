@@ -3,7 +3,7 @@
 [169. Majority Element](https://leetcode.com/problems/majority-element/description)
 
 
-![image]()
+![image](https://github.com/negionion/Leetcode/blob/ming/169.%20Majority%20Element/Note1.png)
 
 ## 思路
 
