@@ -3,7 +3,7 @@
 [27. Remote Element](https://leetcode.com/problems/remove-element/description)
 
 
-![image]()
+![image](https://github.com/negionion/Leetcode/blob/ming/27.%20Remove%20Element/Note1.png)
 
 ## 思路
 
