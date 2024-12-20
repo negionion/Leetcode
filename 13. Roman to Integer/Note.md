@@ -3,7 +3,7 @@
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)
 
 
-![image]()
+![image](https://github.com/negionion/Leetcode/blob/ming/13.%20Roman%20to%20Integer/Note1.png)
 
 ## 思路
 
