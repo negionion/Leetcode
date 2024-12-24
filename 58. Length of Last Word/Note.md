@@ -3,7 +3,7 @@
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description)
 
 
-![image]()
+![image](https://github.com/negionion/Leetcode/blob/ming/58.%20Length%20of%20Last%20Word/Note1.png)
 
 ## 思路
 
